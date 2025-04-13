@@ -58,3 +58,9 @@ GitHub Copilot
 
 ## Prompt 4:
 Ajusta el tablero kamban para que se pueda actualizar la fase en la que se encuentra un candidato solo arrastrando su tarjeta
+
+## respuesta Prompt 4:
+Se hizo varios inetntos pero no genero cambios en el codigo
+
+## Prompt 5:
+Verificar las librerias del proyecto
